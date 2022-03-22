@@ -10,6 +10,14 @@ module.exports = function(eleventyConfig) {
     return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toLocaleString(DateTime.DATE_FULL);
   });
 
+  let markdownIt = require("markdown-it");
+  let options = {
+    html: true,
+    breaks: true,
+    linkify: true
+  };
+  eleventyConfig.setLibrary("md", markdownIt(options));
+  
   return {
     dir: {
       input: '_src',

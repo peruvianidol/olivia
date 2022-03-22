@@ -1,0 +1,14 @@
+---
+title: Sweet Surprise
+date: 2014-09-25
+---
+
+Upon entering Olivia’s room this morning we were greeted by her primary nurse, Amy.  She immediately exclaimed, “Olivia looks great today!  Her belly looks so much better!  And the drain came out, so you can hold her.”  As Amy first worked with Olivia on her admittance to Children’s and has worked with her many times since then, her noticing a distinct change in Olivia’s belly flooded us with relief.  Also, what a welcome surprise that we can now Kangaroo Care our little bean!
+
+To give you a little background on the efficacy of Kangaroo Care, it was first used in Bogota, Columbia (1970s) as the morbidity rate for pre-term infants was 70% due to lack of resources and adequate funding.  Healthcare professionals found that skin-to-skin contact worked as effectively as an incubator for these young infants and sent mothers on their way with a sling and encouraged mothers to carry their infants at all times.  The survival rates for pre-term infants increased significantly.  [Kangaroo Care](http://my.clevelandclinic.org/childrens-hospital/health-info/ages-stages/baby/hic-Kangaroo-Care) is now standard in NICUs all across the world.  Such a small, common sense measure in helping these vulnerable infants survive!
+
+I can report that Olivia absolutely LOVED Kangarooing.  Her oxygen levels immediately increased, she rooted on her ventilator tube (can’t wait for that thing to be out and for her to try a mini-pacifier), and put her hand near her face.  We sat this way for two and a half hours.  Perhaps if they are willing to catheterize me, I can go for longer, but I needed a potty break and to pump for her.  Other than continuing to pump and store milk, this is quite possibly the most important thing I can do for Olivia–hold her daily!  I must say, it increased my serotonin levels as well.
+
+We were also pleased to learn that she has no evidence of intraventricular hemorrhage of the brain other than a 1-2mm bleed in an area of the brain where IVH is not generally present (the fellow stated this is minute and not a concern).  She also has no evidence of periventricular leukomalacia, or death of the white matter of the brain.  This is awesome news!  Olivia is still having difficulty with weaning her vent settings further, and thus the PDA continues to be a problem.  They will attempt a few non-invasive strategies over the course of the weekend and request another echo on Monday.  If the PDA is still large and presenting a problem for Olivia, they will discuss the issue with the surgeons at that time.  For now, the bowels remain on the back burner as Olivia continues to grow.
+
+Today was a great day!  While we know this is one heck of a rollercoaster ride, we operate with the optimism that tomorrow will always be a better day.

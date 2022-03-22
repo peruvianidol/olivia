@@ -1,0 +1,6 @@
+{
+  "layout": "post.njk",
+  "author": "Allie",
+  "permalink": "/posts/{{title | slug}}/",
+  "tags": "posts"
+}
